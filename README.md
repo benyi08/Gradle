@@ -1,3 +1,2 @@
 # Gradle
-
-## Gradle practise repo
+Gradle practise repo
